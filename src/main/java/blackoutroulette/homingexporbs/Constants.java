@@ -12,7 +12,7 @@ public final class Constants {
 	public static final int MAX_SPAWN_DELAY = 6;
 	public static final int MAX_LIFETIME = 6000;
 	public static final int HOMING_RANGE = 128;
-	//SET HOMEING_RANGE upto 128, for long long distance weapon like sniper gun
+	/*todo modified HOMING_RANGE upto 128 to be suit for some loooooooooong distance weapon like sniper guns*/
 	public static final int MIN_ANGLE = 45;
 	public static final int MAX_ANGLE = 135;
 
