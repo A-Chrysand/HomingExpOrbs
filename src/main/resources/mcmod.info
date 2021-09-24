@@ -2,10 +2,10 @@
 {
   "modid": "homingexporbs",
   "name": "HomingExpOrbs",
-  "description": "Makes experience orbs fly towards you.[A_Chrysand modified]",
-  "version": "1.1-1",
+  "description": "Makes experience orbs fly towards you. [A_Chrysand modified, set HOMING_RANGE upto 128]\nModified Src=https://github.com/A-Chrysand/HomingExpOrbs",
+  "version": "1.1",
   "mcversion": "1.12.2",
-  "url": "https://github.com/A-Chrysand/HomingExpOrbs",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/homing-exp-orbs",
   "updateUrl": "",
   "authorList": ["BlackoutRoulette"],
   "credits": "",

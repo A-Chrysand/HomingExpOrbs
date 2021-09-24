@@ -6,14 +6,14 @@ https://github.com/blackoutroulette/HomingExpOrbs
 
 
 1. Modified the max distance upto 128 to fit some loooooooooong distance weapon like sniper gun  
-2. ~~disabled exp orbs tail effect to ~~increase performance~~
+2. ~~planning to disable exp orbs tail effect to **increase performance**~~
 3. planning to add config files or in-game switch so that everyone can easily change the parameter
 
 IDE: Jetbrain IDEA && jdk1.8.0_301
 ```shell
 # run Minecraft Forged client to test mod
-gradlew.bat runClinet
+.\gradlew.bat runClinet
 # build Minecraft mod
-gradlew.bat build
+.\gradlew.bat build
 ```
 
