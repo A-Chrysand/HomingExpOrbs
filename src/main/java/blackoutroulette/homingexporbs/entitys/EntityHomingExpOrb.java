@@ -149,6 +149,7 @@ public class EntityHomingExpOrb extends EntityXPOrb {
 		this.setEntityBoundingBox(new AxisAlignedBB(x - d, y - d1, z - d, x + d, y + d1, z + d));
 
 		createParticles();
+		//todo last time i disable here,and bugs
 	}
 
 	protected void createParticles() {
